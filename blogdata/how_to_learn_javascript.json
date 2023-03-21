@@ -1,0 +1,7 @@
+{
+    "title":"How to learn Javascript",
+    "content":"Many security properties of smart contracts are inherently difficult to reason about directly, and the Turing-completeness of Solidity means that verification of arbitrary properties cannot be decidably automated. Current automated solutions for smart contract security analysis can miss critical violations, produce false positives, and fail to achieve sufficient code coverage on realistic contracts.[20] Solidity has been blamed for the error-prone implementation of Ethereum smart contracts due to its counterintuitive nature, its lack of constructs to deal with blockchain domain-specific aspects, and its lack of centralized documentation of known vulnerabilities",
+    "author":"weki",
+    "slug":"how_to_learn_javascript",
+    "metadesc":"I will teach you javascript"
+}

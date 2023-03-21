@@ -1,0 +1,10 @@
+import '@/styles/globals.css'
+import Navbar from '@/component/Navbar'
+
+export default function App({ Component, pageProps }) {
+  return <>
+       <Navbar/>  
+       <Component {...pageProps} />
+       </> 
+}
+// this file will load with loading all pages

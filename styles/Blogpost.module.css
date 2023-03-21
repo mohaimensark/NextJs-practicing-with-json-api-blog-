@@ -1,0 +1,18 @@
+ 
+  .container{
+    padding: 70px;
+  }
+
+  .main {
+    display: flex;
+  
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+  
+    flex:1;
+  }
+  

@@ -1,0 +1,7 @@
+{
+    "title":"How to learn Solidity",
+    "content":"<p style=\"text-indent:18px;width:200px;\">The first line of this paragraph is indented by 18 pixels. Each subsequent line is not indented.<\/p>\r\n<p style=\"text-indent:2.8em;width:200px;\">The first line of this paragraph is indented by 2.8 em. An em defines the proportion of the letter width and height with respect to the point size of the current font.<\/p>\r\n<p style=\"text-indent:35%;width:200px;\">The first line of this paragraph is indented by 35% (i.e. 35% of the containing block - not this paragraph).<\/p>\r\n<p style=\"text-indent:-8px;width:200px;\">The first line of this paragraph is indented by a negative amount (-8 pixels). <\/p>\r\n",
+    "author":"weki",
+    "slug":"how_to_learn_solidity",
+    "metadesc":"I will teach you solidity"
+}

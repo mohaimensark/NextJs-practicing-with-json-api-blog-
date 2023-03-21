@@ -1,0 +1,1 @@
+alert("This is from sc.js which is from public folder")
